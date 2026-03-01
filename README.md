@@ -7,9 +7,7 @@ I built a cancellation prediction model using classification algorithms. Logisti
 
 📌 Executive Summary
 
-This project builds a production-ready machine learning system to predict hotel booking cancellations using historical reservation data.
-
-The objective is to proactively identify high-risk bookings and enable data-driven strategies such as:
+This project builds a production-ready machine learning system to predict hotel booking cancellations using historical reservation data. The objective is to proactively identify high-risk bookings and enable data-driven strategies such as:
 
 Dynamic pricing
 
