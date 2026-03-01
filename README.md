@@ -22,8 +22,7 @@ The final solution compares multiple models and selects the best-performing algo
 
 🧠 Problem Framing
 
-Booking cancellations directly impact revenue forecasting and occupancy planning.
-The task was formulated as a binary classification problem:
+Booking cancellations directly impact revenue forecasting and occupancy planning. The task was formulated as a binary classification problem:
 
 Predict whether a booking will be canceled (is_canceled = 1) or not (0).
 
