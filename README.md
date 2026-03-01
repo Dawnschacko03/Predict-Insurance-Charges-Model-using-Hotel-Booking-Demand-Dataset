@@ -1,5 +1,7 @@
 # Hotel Booking Cancellation Prediction
+
 ## End-to-End Machine Learning Pipeline for Revenue Risk Mitigation
+
 I built a cancellation prediction model using classification algorithms. Logistic Regression served as a baseline. Random Forest improved performance by capturing non-linear patterns. XGBoost achieved the best ROC-AUC due to its gradient boosting approach and regularization capability.
 
 
